@@ -1,6 +1,6 @@
 # DisasterTweets
 # Data:
-
+https://www.kaggle.com/competitions/nlp-getting-started/overview
 In this kaggle competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t. Dataset consisits of of 10,000 tweets that were hand classified.
 
 Each sample in the train and test set has the following information:
@@ -31,3 +31,7 @@ Preprocess the data
 Load a deBERTa model from transformers
 Train model, fine-tuning deBERTa
 Generate the submission file
+
+# Results:
+![image](https://github.com/AlisherAmirbek/DisasterTweets/assets/124807619/70b409f8-a4de-43bc-a5cf-11a85e520672)
+
